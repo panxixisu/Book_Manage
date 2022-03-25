@@ -17,10 +17,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-<<<<<<< refs/remotes/origin/main
-我也要修改你
-=======
-test02 test02
-test01
-我tesy02l老大
->>>>>>> test02老大
+
