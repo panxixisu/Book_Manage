@@ -17,4 +17,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+<<<<<<< Updated upstream
 我要修改啦
+=======
+我要修改啦
+>>>>>>> Stashed changes
