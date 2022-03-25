@@ -17,9 +17,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-<<<<<<< Updated upstream
 test02 test02
 test01
-=======
-testtest
->>>>>>> Stashed changes
