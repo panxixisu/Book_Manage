@@ -16,6 +16,5 @@ npm run build
 ```
 
 ### Customize configuration
-testforme
-testforme1
-testforme2
+test02
+test033
